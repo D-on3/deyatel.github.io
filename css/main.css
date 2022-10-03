@@ -1584,8 +1584,8 @@ header a {
  * ------------------------------------------------------------------- */
 header .logo {
 	position: absolute;
-	left: 35px;
-	top: 6px;
+	left: 70px;
+	top: 12px;
 	z-index: 601;
 }
 
